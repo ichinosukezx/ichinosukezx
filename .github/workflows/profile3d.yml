@@ -1,18 +1,9 @@
-name: generate 3d chart for profile contributions
+name: GitHub-Profile-3D-Contrib
 
 on:
-  # run automatically every 24 hours
-  schedule:
-    - cron: "0 0 * * *"
-
-  # allows to manually run the job at any time
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
-
-  # run on every push on the main branch
-  # don't forget to change if you're using 'master' branch
-  push:
-    branches:
-    - main
 
 jobs:
   build:
@@ -31,5 +22,3 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
-
-
