@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=自身のユーザーネーム)
+![](https://komarev.com/ghpvc/?username=ichinosukezx)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ichinosukezx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
