@@ -33,9 +33,7 @@
  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ichinosukezx/ichinosukezx/output-3d-contrib/day.svg" />
 </picture>
 
-
-
-
+![](./profile-3d-contrib/profile-season-animate.svg)
 <!--
 **ichinosukezx/ichinosukezx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
