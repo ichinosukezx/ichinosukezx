@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ichinosukezx)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,js,py,rust,vscode&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,html,js,py,vscode&perline=10)](https://skillicons.dev)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ichinosukezx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
