@@ -2,6 +2,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ichinosukezx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ichinosukezx&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ichinosukezx/)
+
 ## Profile
 
 
@@ -32,18 +35,3 @@
   <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ichinosukezx/ichinosukezx/output-3d-contrib/day.svg" />
 </picture>
-
-<!--
-**ichinosukezx/ichinosukezx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
