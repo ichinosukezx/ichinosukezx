@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,html,js,py,vscode&perline=10)](https://skillicons.dev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ichinosukezx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ichinosukezx&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ichinosukezx&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ichinosukezx/)
